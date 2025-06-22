@@ -6,7 +6,7 @@ DevQuiz is a modern quiz application built with React, designed for speed and ea
 
 ## Demo
 
-[Live Demo](https://your-demo-link.com) <!-- Replace with your deployment link if available -->
+[Live Demo](https://devquizrmc.netlify.app/) 
 
 ---
 
